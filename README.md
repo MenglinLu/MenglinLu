@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MenglinLu
 - 👀 I’m interested in Artificial Intelligence in Medicine
-- 🌱 I’m currently studying in Zhejiang University, Institute of Artificatial Intelligence
+- 🌱 I’m currently studying in Zhejiang University, Institute of Artificial Intelligence
 
 <!---
 MenglinLu/MenglinLu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
